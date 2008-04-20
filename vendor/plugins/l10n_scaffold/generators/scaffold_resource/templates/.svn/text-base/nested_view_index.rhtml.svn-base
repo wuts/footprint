@@ -1,0 +1,24 @@
+<h1><%%=_ "Listing %s", <%= model_name %>.human_name %></h1>
+
+<table>
+  <tr>
+<% for attribute in attributes -%>
+    <th><%%= <%= model_name %>.human_attribute_name("<%= attribute.name%>") %></th>
+<% end -%>
+  </tr>
+  
+<%% for <%= singular_name %> in @<%= plural_name %> %>
+  <tr>
+<% for attribute in attributes -%>
+    <td><%%=h <%= singular_name %>.<%= attribute.name %> %></td>
+<% end -%>
+<td><%%= link_to _('View'), <%= singular_name %>_path(:<%= parent_singular_name %>_id => @<%= parent_singular_name %>, :id => <%= singular_name %>) %></td>
+<td><%%= link_to _('Edit'), edit_<%= singular_name %>_path(:<%= parent_singular_name %>_id => @<%= parent_singular_name %>, :id => <%= singular_name %>) %></td>
+    <td><%%= link_to _('Destroy'), <%= singular_name %>_path(:<%= parent_singular_name %>_id => @<%= parent_singular_name %>, :id => <%= singular_name %>), :confirm => _('Are you sure?'), :method => :delete %></td>
+  </tr>
+<%% end %>
+</table>
+
+<br />
+
+<%%= link_to _("New %s", <%= model_name %>.human_name), new_<%= singular_name %>_path(@<%= parent_singular_name %>) %>

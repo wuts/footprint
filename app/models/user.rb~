@@ -1,0 +1,6 @@
+class User < ActiveRecord::Base
+  has_many :progresses,:through=>:myprogresses
+  has_many :footprints,:through=>:myfootprints
+  has_many :myprogresses
+  has_many :myfootprints
+end

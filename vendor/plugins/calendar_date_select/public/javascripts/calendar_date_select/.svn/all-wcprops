@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/394/trunk/public/javascripts/calendar_date_select
+END
+calendar_date_select.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/394/trunk/public/javascripts/calendar_date_select/calendar_date_select.js
+END
+format_finnish.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/302/trunk/public/javascripts/calendar_date_select/format_finnish.js
+END
+format_american.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/302/trunk/public/javascripts/calendar_date_select/format_american.js
+END
+format_italian.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/302/trunk/public/javascripts/calendar_date_select/format_italian.js
+END
+format_hyphen_ampm.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/302/trunk/public/javascripts/calendar_date_select/format_hyphen_ampm.js
+END
+format_db.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/332/trunk/public/javascripts/calendar_date_select/format_db.js
+END
+format_iso_date.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/390/trunk/public/javascripts/calendar_date_select/format_iso_date.js
+END
+format_euro_24hr.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/235/trunk/public/javascripts/calendar_date_select/format_euro_24hr.js
+END

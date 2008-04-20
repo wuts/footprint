@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="23"
+   name=""
+   committed-date="2007-06-17T07:27:11.063596Z"
+   url="http://l10n-scaffold.googlecode.com/svn/trunk/rdoc/classes/ActionView/Helpers"
+   last-author="caoweiyuan"
+   kind="dir"
+   uuid="f24e5565-1133-0410-8548-c1fcaaad38ca"
+   repos="http://l10n-scaffold.googlecode.com/svn"
+   revision="53"/>
+<entry
+   committed-rev="23"
+   name="DateHelper.html"
+   text-time="2007-10-31T07:54:46.000000Z"
+   committed-date="2007-06-17T07:27:11.063596Z"
+   checksum="bdb2a78a131468f925956f3fed441150"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2007-10-31T07:54:39.000000Z"/>
+<entry
+   committed-rev="23"
+   name="TranslationHelper.html"
+   text-time="2007-10-31T07:54:46.000000Z"
+   committed-date="2007-06-17T07:27:11.063596Z"
+   checksum="1c10a1da495e7a875c88c5088e613d4b"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2007-10-31T07:54:40.000000Z"/>
+<entry
+   committed-rev="23"
+   name="NumberHelper.html"
+   text-time="2007-10-31T07:54:46.000000Z"
+   committed-date="2007-06-17T07:27:11.063596Z"
+   checksum="c23105637def0483c9a147a4ccefc704"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2007-10-31T07:54:42.000000Z"/>
+<entry
+   committed-rev="23"
+   name="ActiveRecordHelper.html"
+   text-time="2007-10-31T07:54:46.000000Z"
+   committed-date="2007-06-17T07:27:11.063596Z"
+   checksum="22b719ce4bfe8d3871f464cbde7ad4b9"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2007-10-31T07:54:46.000000Z"/>
+</wc-entries>

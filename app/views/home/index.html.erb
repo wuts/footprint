@@ -1,0 +1,24 @@
+<div id="progress">
+  <h2>progress list</h2>
+  <table>
+  <tr>
+    <th>Name</th>
+    <th>Description</th>
+    <th>Start</th>
+    <th>End</th>
+    <th>Issue</th>
+    <th>Keywords</th>
+  </tr>
+
+<% for progress in @progresses %>
+  <tr>
+    <td><%=h progress.name %></td>
+    <td><%=h progress.description %></td>
+    <td><%=h progress.start %></td>
+    <td><%=h progress.end %></td>
+    <td><%=h progress.keywords %></td>
+
+  </tr>
+<% end %>
+</table>
+</div>

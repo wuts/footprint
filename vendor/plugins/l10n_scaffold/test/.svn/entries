@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="23"
+   name=""
+   committed-date="2007-06-17T07:27:11.063596Z"
+   url="http://l10n-scaffold.googlecode.com/svn/trunk/test"
+   last-author="caoweiyuan"
+   kind="dir"
+   uuid="f24e5565-1133-0410-8548-c1fcaaad38ca"
+   repos="http://l10n-scaffold.googlecode.com/svn"
+   revision="53"/>
+<entry
+   committed-rev="23"
+   name="test_the_hooks_test.rb"
+   text-time="2007-10-31T07:53:19.000000Z"
+   committed-date="2007-06-17T07:27:11.063596Z"
+   checksum="5cbc0a6dc7455687da2531035f3af99e"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2007-10-31T07:53:15.000000Z"/>
+<entry
+   committed-rev="23"
+   name="helper_tests.rhtml"
+   text-time="2007-10-31T07:53:19.000000Z"
+   committed-date="2007-06-17T07:27:11.063596Z"
+   checksum="f68d84b9772eedbf176e656a180084dc"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2007-10-31T07:53:17.000000Z"/>
+<entry
+   committed-rev="23"
+   name="test_the_plugin_test.rb"
+   text-time="2007-10-31T07:53:19.000000Z"
+   committed-date="2007-06-17T07:27:11.063596Z"
+   checksum="45acaa48d7f4031bac55f7174dc75279"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2007-10-31T07:53:19.000000Z"/>
+</wc-entries>

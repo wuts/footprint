@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="113"
+   name=""
+   committed-date="2008-03-05T02:31:23.479437Z"
+   url="http://rolerequirement.googlecode.com/svn/trunk/test"
+   last-author="jbarket"
+   kind="dir"
+   uuid="0128ec72-9f35-0410-83f6-31648bef6b25"
+   repos="http://rolerequirement.googlecode.com/svn"
+   revision="113"/>
+<entry
+   committed-rev="113"
+   name="test_helper.rb"
+   text-time="2008-03-14T03:54:39.000000Z"
+   committed-date="2008-03-05T02:31:23.479437Z"
+   checksum="7b2b70456b14e8c06bd1c4c7ebb6a974"
+   last-author="jbarket"
+   kind="file"
+   prop-time="2008-03-14T03:54:39.000000Z"/>
+<entry
+   name="functional"
+   kind="dir"/>
+<entry
+   committed-rev="97"
+   name="controller_stub.rb"
+   text-time="2007-11-20T07:28:55.000000Z"
+   committed-date="2007-11-20T06:53:22.255348Z"
+   checksum="9130f13c29b559af73245a6ac90021dc"
+   last-author="timcharper"
+   kind="file"
+   prop-time="2007-11-20T07:28:55.000000Z"/>
+<entry
+   committed-rev="97"
+   name="authenticated_system.rb"
+   text-time="2007-11-20T07:28:55.000000Z"
+   committed-date="2007-11-20T06:53:22.255348Z"
+   checksum="e1a66449def25bc96837d17504ae0c7b"
+   last-author="timcharper"
+   kind="file"
+   prop-time="2007-11-20T07:28:55.000000Z"/>
+<entry
+   committed-rev="97"
+   name="user_stub.rb"
+   text-time="2007-11-20T07:28:55.000000Z"
+   committed-date="2007-11-20T06:53:22.255348Z"
+   checksum="f84926cd290cf4e521f967193f9709c3"
+   last-author="timcharper"
+   kind="file"
+   prop-time="2007-11-20T07:28:55.000000Z"/>
+</wc-entries>

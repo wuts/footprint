@@ -1,0 +1,12 @@
+<fieldset>
+<% for attribute in attributes -%>
+  <p>
+    <label for="<%= model_name + "_" + attribute.name %>"><%%= <%= model_name %>.human_attribute_name("<%= attribute.name%>") %></label>
+    <%%=h @<%= singular_name %>.<%= attribute.name %> %>
+  </p>
+
+<% end -%>
+</fieldset>
+
+<%%= link_to _('Edit'), edit_<%= singular_name %>_path(@<%= singular_name %>) %> |
+<%%= link_to _('Back'), <%= plural_name %>_path %>

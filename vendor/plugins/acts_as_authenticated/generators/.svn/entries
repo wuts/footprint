@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="3037"
+   name=""
+   committed-date="2007-11-12T20:19:06.706595Z"
+   url="http://svn.techno-weenie.net/projects/plugins/acts_as_authenticated/generators"
+   last-author="technoweenie"
+   kind="dir"
+   uuid="567b1171-46fb-0310-a4c9-b4bef9110e78"
+   repos="http://svn.techno-weenie.net/projects"
+   revision="3145"/>
+<entry
+   name="authenticated"
+   kind="dir"/>
+<entry
+   name="authenticated_mailer"
+   kind="dir"/>
+</wc-entries>

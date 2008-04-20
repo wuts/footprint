@@ -1,0 +1,20 @@
+<h1><%%=_ "New %s", <%= model_name %>.human_name %></h1>
+
+<%%= error_messages_for :<%= singular_name %> %>
+
+<%% form_for(:<%= singular_name %>, :url => <%= plural_name %>_path) do |f| %>
+  <fieldset>
+<% for attribute in attributes -%>
+    <p>
+      <label for="<%= model_name + "_" + attribute.name %>"><%%= <%= model_name %>.human_attribute_name("<%= attribute.name%>") %></label>
+      <%%= f.<%= attribute.field_type %> :<%= attribute.name %> %>
+    </p>
+
+<% end -%>
+  </fieldset>
+  <p>
+    <%%= submit_tag _("Create") %>
+  </p>
+<%% end %>
+
+<%%= link_to _('Back'), <%= parent_singular_name %>_path(@<%= parent_singular_name %>) %>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="47"
+   name=""
+   committed-date="2008-01-14T09:14:32.944458Z"
+   url="http://l10n-scaffold.googlecode.com/svn/trunk/generators"
+   last-author="caoweiyuan"
+   kind="dir"
+   uuid="f24e5565-1133-0410-8548-c1fcaaad38ca"
+   repos="http://l10n-scaffold.googlecode.com/svn"
+   revision="53"/>
+<entry
+   name="as_model"
+   kind="dir"/>
+<entry
+   name="as_controller"
+   kind="dir"/>
+<entry
+   name="scaffold_resource"
+   kind="dir"/>
+</wc-entries>

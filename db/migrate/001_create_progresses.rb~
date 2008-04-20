@@ -1,0 +1,17 @@
+class CreateProgresses < ActiveRecord::Migration
+  def self.up
+    create_table :progresses do |t|
+      t.string :name
+      t.text :description
+      t.datetime :start
+      t.datetime :end
+      t.string :keyword
+
+      t.timestamps
+    end
+  end
+
+  def self.down
+    drop_table :progresses
+  end
+end

@@ -1,0 +1,4 @@
+class ProgressesController < ApplicationController
+  layout "admin"
+  active_scaffold :progress
+end

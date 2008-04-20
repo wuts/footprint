@@ -1,0 +1,52 @@
+8
+
+dir
+401
+http://calendardateselect.googlecode.com/svn/trunk/lib
+http://calendardateselect.googlecode.com/svn
+
+
+
+2008-04-06T09:08:55.183283Z
+390
+timcharper
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+4972a71b-da31-0410-b7dd-373b726a5e75
+
+calendar_date_select.rb
+file
+
+
+
+
+2008-04-19T14:16:34.000000Z
+8c750253e531ee96e8193b027ff577ad
+2008-04-06T09:08:55.183283Z
+390
+timcharper
+
+includes_helper.rb
+file
+
+
+
+
+2008-04-19T14:16:34.000000Z
+69c3de1d8c3b49d7bbddfbb9db5a537a
+2007-11-14T11:55:13.991849Z
+260
+timcharper
+

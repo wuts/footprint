@@ -1,0 +1,5 @@
+class Progress < ActiveRecord::Base
+  has_many :users,:through=>:myprogresses
+  has_many :myprogresses
+  has_one :myfootprint
+end

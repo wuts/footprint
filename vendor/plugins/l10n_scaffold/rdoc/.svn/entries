@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="23"
+   name=""
+   committed-date="2007-06-17T07:27:11.063596Z"
+   url="http://l10n-scaffold.googlecode.com/svn/trunk/rdoc"
+   last-author="caoweiyuan"
+   kind="dir"
+   uuid="f24e5565-1133-0410-8548-c1fcaaad38ca"
+   repos="http://l10n-scaffold.googlecode.com/svn"
+   revision="53"/>
+<entry
+   committed-rev="23"
+   name="fr_file_index.html"
+   text-time="2007-10-31T07:54:57.000000Z"
+   committed-date="2007-06-17T07:27:11.063596Z"
+   checksum="847f7972e90fdbdd8134e7f9a6ea2f25"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2007-10-31T07:54:03.000000Z"/>
+<entry
+   committed-rev="23"
+   name="fr_method_index.html"
+   text-time="2007-10-31T07:54:57.000000Z"
+   committed-date="2007-06-17T07:27:11.063596Z"
+   checksum="0fe6ad979a056a60b9d7e50d4457852e"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2007-10-31T07:54:03.000000Z"/>
+<entry
+   name="files"
+   kind="dir"/>
+<entry
+   committed-rev="23"
+   name="created.rid"
+   text-time="2007-10-31T07:54:57.000000Z"
+   committed-date="2007-06-17T07:27:11.063596Z"
+   checksum="c5f28c4deb33008ae4666558cc248cd0"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2007-10-31T07:54:28.000000Z"/>
+<entry
+   committed-rev="23"
+   name="fr_class_index.html"
+   text-time="2007-10-31T07:54:57.000000Z"
+   committed-date="2007-06-17T07:27:11.063596Z"
+   checksum="2300c0974be080b35174a5a80cb65091"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2007-10-31T07:54:29.000000Z"/>
+<entry
+   committed-rev="23"
+   name="index.html"
+   text-time="2007-10-31T07:54:57.000000Z"
+   committed-date="2007-06-17T07:27:11.063596Z"
+   checksum="ff7e8bf7b4660b2b3670d6817d44e951"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2007-10-31T07:54:29.000000Z"/>
+<entry
+   committed-rev="23"
+   name="rdoc-style.css"
+   text-time="2007-10-31T07:54:57.000000Z"
+   committed-date="2007-06-17T07:27:11.063596Z"
+   checksum="0c891a5ba3edceb7385fb3030a0caafa"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2007-10-31T07:54:34.000000Z"/>
+<entry
+   name="classes"
+   kind="dir"/>
+</wc-entries>

@@ -1,0 +1,70 @@
+8
+
+dir
+401
+http://calendardateselect.googlecode.com/svn/trunk/js_test
+http://calendardateselect.googlecode.com/svn
+
+
+
+2008-04-06T09:09:40.005288Z
+395
+timcharper
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+4972a71b-da31-0410-b7dd-373b726a5e75
+
+unit
+dir
+
+prototype.js
+file
+
+
+
+
+2008-04-19T14:16:37.000000Z
+bab4179aef164e96e866b03ac432bdf7
+2007-11-13T18:47:35.462740Z
+249
+timcharper
+
+functional
+dir
+
+test.css
+file
+
+
+
+
+2008-04-19T14:16:37.000000Z
+6af47889ae7a0b27c22f5df44db7ae0a
+2007-09-27T08:03:06.728389Z
+186
+timcharper
+
+unittest.js
+file
+
+
+
+
+2008-04-19T14:16:37.000000Z
+934da23c6f8f0fac0a01bc7bf05ebb98
+2007-11-12T22:24:24.607943Z
+230
+timcharper
+

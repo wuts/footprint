@@ -1,0 +1,4 @@
+class FootprintsController < ApplicationController
+  layout "admin"
+  active_scaffold :footprint
+end

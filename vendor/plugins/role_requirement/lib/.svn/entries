@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="79"
+   name=""
+   committed-date="2007-11-13T08:01:45.027870Z"
+   url="http://rolerequirement.googlecode.com/svn/trunk/lib"
+   last-author="timcharper"
+   kind="dir"
+   uuid="0128ec72-9f35-0410-83f6-31648bef6b25"
+   repos="http://rolerequirement.googlecode.com/svn"
+   revision="113"/>
+</wc-entries>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="27"
+   name=""
+   committed-date="2007-08-21T08:51:05.781212Z"
+   url="http://l10n-scaffold.googlecode.com/svn/trunk/generators/as_model/templates"
+   last-author="caoweiyuan"
+   kind="dir"
+   uuid="f24e5565-1133-0410-8548-c1fcaaad38ca"
+   repos="http://l10n-scaffold.googlecode.com/svn"
+   revision="53"/>
+<entry
+   committed-rev="27"
+   name="unit_test.rb"
+   text-time="2007-10-31T07:55:03.000000Z"
+   committed-date="2007-08-21T08:51:05.781212Z"
+   checksum="7e8d42d87e0fa423fce786099a01daf6"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2007-10-31T07:55:03.000000Z"/>
+<entry
+   committed-rev="27"
+   name="model.rb"
+   text-time="2007-10-31T07:55:03.000000Z"
+   committed-date="2007-08-21T08:51:05.781212Z"
+   checksum="9a68aecb63b2fbce56e9066d99aa6c31"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2007-10-31T07:55:03.000000Z"/>
+<entry
+   committed-rev="27"
+   name="fixtures.yml"
+   text-time="2007-10-31T07:55:03.000000Z"
+   committed-date="2007-08-21T08:51:05.781212Z"
+   checksum="d3f8b124056efacde52e279997161bd1"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2007-10-31T07:55:03.000000Z"/>
+<entry
+   committed-rev="27"
+   name="migration.rb"
+   text-time="2007-10-31T07:55:03.000000Z"
+   committed-date="2007-08-21T08:51:05.781212Z"
+   checksum="ce0817700ec27f10f7d07f998bff6991"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2007-10-31T07:55:03.000000Z"/>
+</wc-entries>

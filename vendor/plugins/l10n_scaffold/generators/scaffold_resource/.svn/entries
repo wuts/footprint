@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="28"
+   name=""
+   committed-date="2007-08-21T08:52:09.450192Z"
+   url="http://l10n-scaffold.googlecode.com/svn/trunk/generators/scaffold_resource"
+   last-author="caoweiyuan"
+   kind="dir"
+   uuid="f24e5565-1133-0410-8548-c1fcaaad38ca"
+   repos="http://l10n-scaffold.googlecode.com/svn"
+   revision="53"/>
+<entry
+   committed-rev="23"
+   name="scaffold_resource_generator.rb"
+   text-time="2007-10-31T07:55:20.000000Z"
+   committed-date="2007-06-17T07:27:11.063596Z"
+   checksum="4af5de8f7459968f66bcff02f2817738"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2007-10-31T07:55:07.000000Z"/>
+<entry
+   committed-rev="23"
+   name="USAGE"
+   text-time="2007-10-31T07:55:20.000000Z"
+   committed-date="2007-06-17T07:27:11.063596Z"
+   checksum="1b58c5404b089fd7d43c7f8f284a144a"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2007-10-31T07:55:07.000000Z"/>
+<entry
+   name="templates"
+   kind="dir"/>
+</wc-entries>

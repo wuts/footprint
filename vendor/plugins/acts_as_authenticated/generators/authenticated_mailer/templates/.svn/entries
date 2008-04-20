@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="903"
+   name=""
+   committed-date="2006-03-01T02:48:46.662629Z"
+   url="http://svn.techno-weenie.net/projects/plugins/acts_as_authenticated/generators/authenticated_mailer/templates"
+   last-author="technoweenie"
+   kind="dir"
+   uuid="567b1171-46fb-0310-a4c9-b4bef9110e78"
+   repos="http://svn.techno-weenie.net/projects"
+   revision="3145"/>
+<entry
+   committed-rev="903"
+   name="notifier_test.rb"
+   text-time="2007-10-31T08:01:02.000000Z"
+   committed-date="2006-03-01T02:48:46.662629Z"
+   checksum="a440ae85ea20df7503f710ca73838a61"
+   last-author="technoweenie"
+   kind="file"
+   prop-time="2007-10-31T08:01:02.000000Z"/>
+<entry
+   committed-rev="201"
+   name="signup_notification.rhtml"
+   text-time="2007-10-31T08:01:02.000000Z"
+   committed-date="2005-11-11T05:46:00.673280Z"
+   checksum="40b76d84fe5f02e4c407518527edaa3e"
+   last-author="technoweenie"
+   kind="file"
+   prop-time="2007-10-31T08:01:02.000000Z"/>
+<entry
+   committed-rev="500"
+   name="notifier.rb"
+   text-time="2007-10-31T08:01:02.000000Z"
+   committed-date="2005-12-24T03:55:29.922258Z"
+   checksum="fbc635dc58cfb83785972ac3af0c78b8"
+   last-author="technoweenie"
+   kind="file"
+   prop-time="2007-10-31T08:01:02.000000Z"/>
+<entry
+   committed-rev="201"
+   name="activation.rhtml"
+   text-time="2007-10-31T08:01:02.000000Z"
+   committed-date="2005-11-11T05:46:00.673280Z"
+   checksum="fbf2bda4a9740a57b1fbabd39550ffc1"
+   last-author="technoweenie"
+   kind="file"
+   prop-time="2007-10-31T08:01:02.000000Z"/>
+<entry
+   committed-rev="500"
+   name="observer.rb"
+   text-time="2007-10-31T08:01:02.000000Z"
+   committed-date="2005-12-24T03:55:29.922258Z"
+   checksum="9a4982b22ee783d9edae5029cabfcd40"
+   last-author="technoweenie"
+   kind="file"
+   prop-time="2007-10-31T08:01:02.000000Z"/>
+</wc-entries>

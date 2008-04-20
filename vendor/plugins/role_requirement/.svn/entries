@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="113"
+   name=""
+   committed-date="2008-03-05T02:31:23.479437Z"
+   url="http://rolerequirement.googlecode.com/svn/trunk"
+   last-author="jbarket"
+   kind="dir"
+   uuid="0128ec72-9f35-0410-83f6-31648bef6b25"
+   repos="http://rolerequirement.googlecode.com/svn"
+   revision="113"/>
+<entry
+   name="test"
+   kind="dir"/>
+<entry
+   committed-rev="80"
+   name="init.rb"
+   text-time="2007-11-13T08:38:07.000000Z"
+   committed-date="2007-11-13T08:03:12.158109Z"
+   checksum="9f76165b4b0e2565ff295c5e7c0ceeb9"
+   last-author="timcharper"
+   kind="file"
+   prop-time="2007-11-13T08:38:03.000000Z"/>
+<entry
+   name="lib"
+   kind="dir"/>
+<entry
+   committed-rev="113"
+   name="ChangeLog"
+   text-time="2008-03-14T03:54:47.000000Z"
+   committed-date="2008-03-05T02:31:23.479437Z"
+   checksum="12f4fe6a0192aa9a0dffe73d46481c4f"
+   last-author="jbarket"
+   kind="file"
+   prop-time="2008-03-14T03:54:39.000000Z"/>
+<entry
+   name="generators"
+   kind="dir"/>
+<entry
+   committed-rev="113"
+   name="MIT-LICENSE"
+   text-time="2008-03-14T03:54:47.000000Z"
+   committed-date="2008-03-05T02:31:23.479437Z"
+   checksum="c11f961540aa250cef3184bba89206a4"
+   last-author="jbarket"
+   kind="file"
+   prop-time="2008-03-14T03:54:39.000000Z"/>
+<entry
+   committed-rev="113"
+   name="README"
+   text-time="2008-03-14T03:54:47.000000Z"
+   committed-date="2008-03-05T02:31:23.479437Z"
+   checksum="aae4883a8280c2c2180bebec1f9979a8"
+   last-author="jbarket"
+   kind="file"
+   prop-time="2008-03-14T03:54:47.000000Z"/>
+</wc-entries>

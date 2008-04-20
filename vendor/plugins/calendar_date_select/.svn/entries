@@ -1,0 +1,88 @@
+8
+
+dir
+401
+http://calendardateselect.googlecode.com/svn/trunk
+http://calendardateselect.googlecode.com/svn
+
+
+
+2008-04-08T06:01:38.017907Z
+396
+timcharper
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+4972a71b-da31-0410-b7dd-373b726a5e75
+
+test
+dir
+
+init.rb
+file
+
+
+
+
+2008-04-19T14:16:40.000000Z
+4f1b8b56b9c1620698801d4bb870fe4c
+2008-03-10T23:45:00.106346Z
+361
+timcharper
+
+lib
+dir
+
+CHANGELOG
+file
+
+
+
+
+2008-04-19T14:16:40.000000Z
+f5b407c2d83f1f078c438dc900af90a1
+2008-04-08T06:01:38.017907Z
+396
+timcharper
+
+MIT-LICENSE
+file
+
+
+
+
+2008-04-19T14:16:40.000000Z
+abf84495f9183267a5187da4d0e7b5a2
+2007-09-03T10:04:35.260349Z
+152
+timcharper
+
+js_test
+dir
+
+README
+file
+
+
+
+
+2008-04-19T14:16:40.000000Z
+be030d8d4a43772ab08c835a933a6d72
+2007-06-16T20:38:26.271059Z
+43
+timcharper
+
+public
+dir
+

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="903"
+   name=""
+   committed-date="2006-03-01T02:48:46.662629Z"
+   url="http://svn.techno-weenie.net/projects/plugins/acts_as_authenticated/generators/authenticated_mailer"
+   last-author="technoweenie"
+   kind="dir"
+   uuid="567b1171-46fb-0310-a4c9-b4bef9110e78"
+   repos="http://svn.techno-weenie.net/projects"
+   revision="3145"/>
+<entry
+   committed-rev="500"
+   name="authenticated_mailer_generator.rb"
+   text-time="2007-10-31T08:01:02.000000Z"
+   committed-date="2005-12-24T03:55:29.922258Z"
+   checksum="6208ee743881a5a33655b9e431a8a95e"
+   last-author="technoweenie"
+   kind="file"
+   prop-time="2007-10-31T08:01:01.000000Z"/>
+<entry
+   committed-rev="233"
+   name="USAGE"
+   text-time="2007-10-31T08:01:02.000000Z"
+   committed-date="2005-11-13T15:23:50.393530Z"
+   checksum="c65268caedc79c15961528d9efcc9199"
+   last-author="technoweenie"
+   kind="file"
+   prop-time="2007-10-31T08:01:01.000000Z"/>
+<entry
+   name="templates"
+   kind="dir"/>
+</wc-entries>

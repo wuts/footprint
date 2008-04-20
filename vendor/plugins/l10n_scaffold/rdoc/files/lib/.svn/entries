@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="23"
+   name=""
+   committed-date="2007-06-17T07:27:11.063596Z"
+   url="http://l10n-scaffold.googlecode.com/svn/trunk/rdoc/files/lib"
+   last-author="caoweiyuan"
+   kind="dir"
+   uuid="f24e5565-1133-0410-8548-c1fcaaad38ca"
+   repos="http://l10n-scaffold.googlecode.com/svn"
+   revision="53"/>
+<entry
+   committed-rev="23"
+   name="lang_cf_rb.html"
+   text-time="2007-10-31T07:54:28.000000Z"
+   committed-date="2007-06-17T07:27:11.063596Z"
+   checksum="ed2870cc4aa8ce2bdcab3e8e594ced3e"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2007-10-31T07:54:05.000000Z"/>
+<entry
+   committed-rev="23"
+   name="lang_de_rb.html"
+   text-time="2007-10-31T07:54:28.000000Z"
+   committed-date="2007-06-17T07:27:11.063596Z"
+   checksum="a433f3530b5f00d9b0caffefb77a3eed"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2007-10-31T07:54:04.000000Z"/>
+<entry
+   committed-rev="23"
+   name="lang_es_ar_rb.html"
+   text-time="2007-10-31T07:54:28.000000Z"
+   committed-date="2007-06-17T07:27:11.063596Z"
+   checksum="fd5ad7f44de422904cb8e0c4bb47cb26"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2007-10-31T07:54:06.000000Z"/>
+<entry
+   committed-rev="23"
+   name="localization_simplified_rb.html"
+   text-time="2007-10-31T07:54:28.000000Z"
+   committed-date="2007-06-17T07:27:11.063596Z"
+   checksum="26320a96b1dc1c868b7f8a1f3356b618"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2007-10-31T07:54:06.000000Z"/>
+<entry
+   committed-rev="23"
+   name="lang_fi_rb.html"
+   text-time="2007-10-31T07:54:28.000000Z"
+   committed-date="2007-06-17T07:27:11.063596Z"
+   checksum="4c571e8478a36572c874c82ce0bcdad5"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2007-10-31T07:54:06.000000Z"/>
+<entry
+   committed-rev="23"
+   name="lang_zh_cn_rb.html"
+   text-time="2007-10-31T07:54:28.000000Z"
+   committed-date="2007-06-17T07:27:11.063596Z"
+   checksum="e703f234e1fad54506545336ea959787"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2007-10-31T07:54:07.000000Z"/>
+<entry
+   committed-rev="23"
+   name="lang_en_rb.html"
+   text-time="2007-10-31T07:54:28.000000Z"
+   committed-date="2007-06-17T07:27:11.063596Z"
+   checksum="309c5b1347640fd40838512daa0ea566"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2007-10-31T07:54:08.000000Z"/>
+<entry
+   committed-rev="23"
+   name="lang_chef_rb.html"
+   text-time="2007-10-31T07:54:28.000000Z"
+   committed-date="2007-06-17T07:27:11.063596Z"
+   checksum="5d3d96a9884cfb4647d0a22ef1adaea8"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2007-10-31T07:54:10.000000Z"/>
+<entry
+   committed-rev="23"
+   name="lang_fr_rb.html"
+   text-time="2007-10-31T07:54:28.000000Z"
+   committed-date="2007-06-17T07:27:11.063596Z"
+   checksum="6fc734ac53edc82ac82a152d9fa056a7"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2007-10-31T07:54:13.000000Z"/>
+<entry
+   committed-rev="23"
+   name="lang_se_rb.html"
+   text-time="2007-10-31T07:54:28.000000Z"
+   committed-date="2007-06-17T07:27:11.063596Z"
+   checksum="53473180dfeaa8a4ba71e1d33a7987d2"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2007-10-31T07:54:10.000000Z"/>
+<entry
+   committed-rev="23"
+   name="lang_es_rb.html"
+   text-time="2007-10-31T07:54:28.000000Z"
+   committed-date="2007-06-17T07:27:11.063596Z"
+   checksum="5e70913951eb6253bc84c30b90572fb6"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2007-10-31T07:54:10.000000Z"/>
+<entry
+   committed-rev="23"
+   name="lang_nl_rb.html"
+   text-time="2007-10-31T07:54:28.000000Z"
+   committed-date="2007-06-17T07:27:11.063596Z"
+   checksum="d67d09828b1123fde3e26cb6c8f148ee"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2007-10-31T07:54:17.000000Z"/>
+<entry
+   committed-rev="23"
+   name="lang_ko_rb.html"
+   text-time="2007-10-31T07:54:28.000000Z"
+   committed-date="2007-06-17T07:27:11.063596Z"
+   checksum="14215c691dcb27c3fe7947b2a4b2a24c"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2007-10-31T07:54:14.000000Z"/>
+<entry
+   committed-rev="23"
+   name="lang_it_rb.html"
+   text-time="2007-10-31T07:54:28.000000Z"
+   committed-date="2007-06-17T07:27:11.063596Z"
+   checksum="b0dc88749a41b7f440a74ddc7dc18f73"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2007-10-31T07:54:18.000000Z"/>
+<entry
+   committed-rev="23"
+   name="lang_pirate_rb.html"
+   text-time="2007-10-31T07:54:28.000000Z"
+   committed-date="2007-06-17T07:27:11.063596Z"
+   checksum="8cdc9b03e24aa3301becb98ddd369da0"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2007-10-31T07:54:28.000000Z"/>
+<entry
+   committed-rev="23"
+   name="lang_da_rb.html"
+   text-time="2007-10-31T07:54:28.000000Z"
+   committed-date="2007-06-17T07:27:11.063596Z"
+   checksum="8fb6e528475d8094c363e345647f7806"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2007-10-31T07:54:28.000000Z"/>
+</wc-entries>

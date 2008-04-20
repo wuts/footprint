@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="28"
+   name=""
+   committed-date="2007-08-21T08:52:09.450192Z"
+   url="http://l10n-scaffold.googlecode.com/svn/trunk/generators/scaffold_resource/templates"
+   last-author="caoweiyuan"
+   kind="dir"
+   uuid="f24e5565-1133-0410-8548-c1fcaaad38ca"
+   repos="http://l10n-scaffold.googlecode.com/svn"
+   revision="53"/>
+<entry
+   committed-rev="23"
+   name="unit_test.rb"
+   text-time="2007-10-31T07:55:20.000000Z"
+   committed-date="2007-06-17T07:27:11.063596Z"
+   checksum="7e8d42d87e0fa423fce786099a01daf6"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2007-10-31T07:55:07.000000Z"/>
+<entry
+   committed-rev="23"
+   name="helper.rb"
+   text-time="2007-10-31T07:55:20.000000Z"
+   committed-date="2007-06-17T07:27:11.063596Z"
+   checksum="c3f7249360807dbb24bdd52c2700fdb4"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2007-10-31T07:55:07.000000Z"/>
+<entry
+   committed-rev="23"
+   name="controller.rb"
+   text-time="2007-10-31T07:55:20.000000Z"
+   committed-date="2007-06-17T07:27:11.063596Z"
+   checksum="ee6734db2fe0661c350d3ada6de8a5bd"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2007-10-31T07:55:12.000000Z"/>
+<entry
+   committed-rev="23"
+   name="view_index.rhtml"
+   text-time="2007-10-31T07:55:20.000000Z"
+   committed-date="2007-06-17T07:27:11.063596Z"
+   checksum="9bb6aac0f705dca80382dff2f02ec48c"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2007-10-31T07:55:12.000000Z"/>
+<entry
+   committed-rev="23"
+   name="style.css"
+   text-time="2007-10-31T07:55:20.000000Z"
+   committed-date="2007-06-17T07:27:11.063596Z"
+   checksum="70e729685fb3ef28f5db5035a50567eb"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2007-10-31T07:55:12.000000Z"/>
+<entry
+   committed-rev="23"
+   name="nested_controller.rb"
+   text-time="2007-10-31T07:55:20.000000Z"
+   committed-date="2007-06-17T07:27:11.063596Z"
+   checksum="8127dea556253fd747271412d790ed21"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2007-10-31T07:55:12.000000Z"/>
+<entry
+   committed-rev="23"
+   name="nested_view_index.rhtml"
+   text-time="2007-10-31T07:55:20.000000Z"
+   committed-date="2007-06-17T07:27:11.063596Z"
+   checksum="1c64d1f3de114835859dd9ff0140a89b"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2007-10-31T07:55:12.000000Z"/>
+<entry
+   committed-rev="23"
+   name="migration.rb"
+   text-time="2007-10-31T07:55:20.000000Z"
+   committed-date="2007-06-17T07:27:11.063596Z"
+   checksum="ce0817700ec27f10f7d07f998bff6991"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2007-10-31T07:55:12.000000Z"/>
+<entry
+   committed-rev="23"
+   name="nested_migration.rb"
+   text-time="2007-10-31T07:55:20.000000Z"
+   committed-date="2007-06-17T07:27:11.063596Z"
+   checksum="d8bec9c2569cd8361d90bf9e6a349717"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2007-10-31T07:55:12.000000Z"/>
+<entry
+   committed-rev="23"
+   name="view_show.rhtml"
+   text-time="2007-10-31T07:55:20.000000Z"
+   committed-date="2007-06-17T07:27:11.063596Z"
+   checksum="afa07b52764630d19eb1b93015a5685b"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2007-10-31T07:55:12.000000Z"/>
+<entry
+   committed-rev="23"
+   name="nested_view_show.rhtml"
+   text-time="2007-10-31T07:55:20.000000Z"
+   committed-date="2007-06-17T07:27:11.063596Z"
+   checksum="95fc7e1344fb2b78cd8700938fb41838"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2007-10-31T07:55:12.000000Z"/>
+<entry
+   committed-rev="23"
+   name="layout.rhtml"
+   text-time="2007-10-31T07:55:20.000000Z"
+   committed-date="2007-06-17T07:27:11.063596Z"
+   checksum="616243c5451213362abfa218162c06a8"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2007-10-31T07:55:13.000000Z"/>
+<entry
+   committed-rev="28"
+   name="model.rb"
+   text-time="2007-10-31T07:55:20.000000Z"
+   committed-date="2007-08-21T08:52:09.450192Z"
+   checksum="e3cae184474bf07c7ee944021e2e6957"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2007-10-31T07:55:12.000000Z"/>
+<entry
+   committed-rev="23"
+   name="functional_test.rb"
+   text-time="2007-10-31T07:55:20.000000Z"
+   committed-date="2007-06-17T07:27:11.063596Z"
+   checksum="2a9fe3f3f5aa84cb463e28ebbca5a5d2"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2007-10-31T07:55:15.000000Z"/>
+<entry
+   committed-rev="23"
+   name="view_edit.rhtml"
+   text-time="2007-10-31T07:55:20.000000Z"
+   committed-date="2007-06-17T07:27:11.063596Z"
+   checksum="f1cfd6f378934cff5422091ba5340aff"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2007-10-31T07:55:15.000000Z"/>
+<entry
+   committed-rev="23"
+   name="nested_model.rb"
+   text-time="2007-10-31T07:55:20.000000Z"
+   committed-date="2007-06-17T07:27:11.063596Z"
+   checksum="838f94e28fefe1a5325505be7961695f"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2007-10-31T07:55:15.000000Z"/>
+<entry
+   committed-rev="23"
+   name="nested_functional_test.rb"
+   text-time="2007-10-31T07:55:20.000000Z"
+   committed-date="2007-06-17T07:27:11.063596Z"
+   checksum="a1c613a30d6d33c609238359ec8b474b"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2007-10-31T07:55:16.000000Z"/>
+<entry
+   committed-rev="23"
+   name="nested_view_edit.rhtml"
+   text-time="2007-10-31T07:55:20.000000Z"
+   committed-date="2007-06-17T07:27:11.063596Z"
+   checksum="dd412a13ecfa320a8cc538cba29713de"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2007-10-31T07:55:16.000000Z"/>
+<entry
+   committed-rev="23"
+   name="view_new.rhtml"
+   text-time="2007-10-31T07:55:20.000000Z"
+   committed-date="2007-06-17T07:27:11.063596Z"
+   checksum="0de0211612c393cd4907ede9e2fe4de5"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2007-10-31T07:55:17.000000Z"/>
+<entry
+   committed-rev="23"
+   name="fixtures.yml"
+   text-time="2007-10-31T07:55:20.000000Z"
+   committed-date="2007-06-17T07:27:11.063596Z"
+   checksum="d3f8b124056efacde52e279997161bd1"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2007-10-31T07:55:20.000000Z"/>
+<entry
+   committed-rev="23"
+   name="nested_view_new.rhtml"
+   text-time="2007-10-31T07:55:20.000000Z"
+   committed-date="2007-06-17T07:27:11.063596Z"
+   checksum="3ca08bbc075918d201b20ce2c3a1267e"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2007-10-31T07:55:20.000000Z"/>
+<entry
+   committed-rev="23"
+   name="nested_fixtures.yml"
+   text-time="2007-10-31T07:55:20.000000Z"
+   committed-date="2007-06-17T07:27:11.063596Z"
+   checksum="125ffca420389e46a9fdaf0dbec424d6"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2007-10-31T07:55:20.000000Z"/>
+</wc-entries>

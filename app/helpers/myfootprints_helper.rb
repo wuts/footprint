@@ -1,0 +1,2 @@
+module MyfootprintsHelper
+end

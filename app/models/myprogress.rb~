@@ -1,0 +1,2 @@
+class Myprogress < ActiveRecord::Base
+end

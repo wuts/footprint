@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="53"
+   name=""
+   committed-date="2008-03-10T02:35:54.893874Z"
+   url="http://l10n-scaffold.googlecode.com/svn/trunk"
+   last-author="caoweiyuan"
+   kind="dir"
+   uuid="f24e5565-1133-0410-8548-c1fcaaad38ca"
+   repos="http://l10n-scaffold.googlecode.com/svn"
+   revision="53"/>
+<entry
+   name="test"
+   kind="dir"/>
+<entry
+   committed-rev="23"
+   name="Rakefile"
+   text-time="2007-10-31T07:55:20.000000Z"
+   committed-date="2007-06-17T07:27:11.063596Z"
+   checksum="eb7b564ea4b266caea9c40a8cecb1578"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2007-10-31T07:53:19.000000Z"/>
+<entry
+   name="tasks"
+   kind="dir"/>
+<entry
+   committed-rev="23"
+   name="init.rb"
+   text-time="2007-10-31T07:55:20.000000Z"
+   committed-date="2007-06-17T07:27:11.063596Z"
+   checksum="abccd61b7436e16cfec8288403742ea9"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2007-10-31T07:53:20.000000Z"/>
+<entry
+   name="lib"
+   kind="dir"/>
+<entry
+   name="rdoc"
+   kind="dir"/>
+<entry
+   name="generators"
+   kind="dir"/>
+<entry
+   committed-rev="23"
+   name="MIT-LICENSE"
+   text-time="2007-10-31T07:55:20.000000Z"
+   committed-date="2007-06-17T07:27:11.063596Z"
+   checksum="12c0e08eceb3a9b5b9f562d026bae872"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2007-10-31T07:55:20.000000Z"/>
+<entry
+   committed-rev="23"
+   name="README"
+   text-time="2007-10-31T07:55:20.000000Z"
+   committed-date="2007-06-17T07:27:11.063596Z"
+   checksum="87f465a4532eced34b2ffb1e7f0d448b"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2007-10-31T07:55:20.000000Z"/>
+</wc-entries>

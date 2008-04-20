@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="113"
+   name=""
+   committed-date="2008-03-05T02:31:23.479437Z"
+   url="http://rolerequirement.googlecode.com/svn/trunk/generators/roles/templates"
+   last-author="jbarket"
+   kind="dir"
+   uuid="0128ec72-9f35-0410-83f6-31648bef6b25"
+   repos="http://rolerequirement.googlecode.com/svn"
+   revision="113"/>
+<entry
+   committed-rev="113"
+   name="hijacker.rb"
+   text-time="2008-03-14T03:54:44.000000Z"
+   committed-date="2008-03-05T02:31:23.479437Z"
+   checksum="b74c2cddd204cc09756b4230d233d673"
+   last-author="jbarket"
+   kind="file"
+   prop-time="2008-03-14T03:54:43.000000Z"/>
+<entry
+   committed-rev="25"
+   name="roles.yml"
+   text-time="2007-10-31T07:51:41.000000Z"
+   committed-date="2007-07-26T18:01:07.195304Z"
+   checksum="16ceded0f0ebbf2d0e074ffd7f066fc5"
+   last-author="timcharper"
+   kind="file"
+   prop-time="2007-10-31T07:51:41.000000Z"/>
+<entry
+   committed-rev="25"
+   name="roles_users.yml"
+   text-time="2007-10-31T07:51:41.000000Z"
+   committed-date="2007-07-26T18:01:07.195304Z"
+   checksum="b3f06f159e8714c6b96cff948f83405e"
+   last-author="timcharper"
+   kind="file"
+   prop-time="2007-10-31T07:51:41.000000Z"/>
+<entry
+   committed-rev="113"
+   name="001_roles_migration.rb.erb"
+   text-time="2008-03-14T03:54:44.000000Z"
+   committed-date="2008-03-05T02:31:23.479437Z"
+   checksum="2b8373579686e04276dd2cbde24e8366"
+   last-author="jbarket"
+   kind="file"
+   prop-time="2008-03-14T03:54:43.000000Z"/>
+<entry
+   committed-rev="24"
+   name=".user_functions_partial.erb"
+   text-time="2007-10-31T07:51:41.000000Z"
+   committed-date="2007-07-26T14:25:05.341219Z"
+   checksum="604b5bbe64cd47a6ab9b806b5b51b0b1"
+   last-author="timcharper"
+   kind="file"
+   prop-time="2007-10-31T07:51:41.000000Z"/>
+<entry
+   committed-rev="113"
+   name="role_requirement_test_helper.rb.erb"
+   text-time="2008-03-14T03:54:44.000000Z"
+   committed-date="2008-03-05T02:31:23.479437Z"
+   checksum="bf472a77c3d5d08c3cbf7be6960be46d"
+   last-author="jbarket"
+   kind="file"
+   prop-time="2008-03-14T03:54:44.000000Z"/>
+<entry
+   committed-rev="82"
+   name="role_model.rb.erb"
+   text-time="2007-11-20T02:14:02.000000Z"
+   committed-date="2007-11-13T08:42:28.346387Z"
+   checksum="901cdd4477e950120ec878295aac14e3"
+   last-author="timcharper"
+   kind="file"
+   prop-time="2007-11-20T02:14:02.000000Z"/>
+<entry
+   committed-rev="113"
+   name="_user_functions.erb"
+   text-time="2008-03-14T03:54:44.000000Z"
+   committed-date="2008-03-05T02:31:23.479437Z"
+   checksum="0c4f4afef04d8ecd2471cc340efbd012"
+   last-author="jbarket"
+   kind="file"
+   prop-time="2008-03-14T03:54:44.000000Z"/>
+<entry
+   committed-rev="25"
+   name="users_admin_fixture_with_roles.yml"
+   text-time="2007-10-31T07:51:41.000000Z"
+   committed-date="2007-07-26T18:01:07.195304Z"
+   checksum="219aa1d7dd7be6a2be0b5b98cccbc8d1"
+   last-author="timcharper"
+   kind="file"
+   prop-time="2007-10-31T07:51:41.000000Z"/>
+<entry
+   committed-rev="113"
+   name="role_requirement_system.rb.erb"
+   text-time="2008-03-14T03:54:44.000000Z"
+   committed-date="2008-03-05T02:31:23.479437Z"
+   checksum="3633e8047bc83702d6cfa0e103e483d4"
+   last-author="jbarket"
+   kind="file"
+   prop-time="2008-03-14T03:54:44.000000Z"/>
+</wc-entries>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="47"
+   name=""
+   committed-date="2008-01-14T09:14:32.944458Z"
+   url="http://l10n-scaffold.googlecode.com/svn/trunk/generators/as_controller/templates"
+   last-author="caoweiyuan"
+   kind="dir"
+   uuid="f24e5565-1133-0410-8548-c1fcaaad38ca"
+   repos="http://l10n-scaffold.googlecode.com/svn"
+   revision="53"/>
+<entry
+   committed-rev="27"
+   name="view.rhtml"
+   text-time="2007-10-31T07:55:05.000000Z"
+   committed-date="2007-08-21T08:51:05.781212Z"
+   checksum="9174fe893f23101aa086395a0f0436ff"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2007-10-31T07:55:05.000000Z"/>
+<entry
+   committed-rev="27"
+   name="helper.rb"
+   text-time="2007-10-31T07:55:05.000000Z"
+   committed-date="2007-08-21T08:51:05.781212Z"
+   checksum="e8491aac2379dbba3d3ddadc30f6db07"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2007-10-31T07:55:05.000000Z"/>
+<entry
+   committed-rev="27"
+   name="functional_test.rb"
+   text-time="2007-10-31T07:55:05.000000Z"
+   committed-date="2007-08-21T08:51:05.781212Z"
+   checksum="1a0eba4b1e6469f6ab39999ff141ea3c"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2007-10-31T07:55:05.000000Z"/>
+<entry
+   committed-rev="47"
+   name="controller.rb"
+   text-time="2008-01-15T02:12:55.000000Z"
+   committed-date="2008-01-14T09:14:32.944458Z"
+   checksum="9280ca03188b14b02876aac6204f88a7"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2008-01-15T02:12:55.000000Z"/>
+</wc-entries>

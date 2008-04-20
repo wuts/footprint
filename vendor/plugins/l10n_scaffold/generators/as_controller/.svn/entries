@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="47"
+   name=""
+   committed-date="2008-01-14T09:14:32.944458Z"
+   url="http://l10n-scaffold.googlecode.com/svn/trunk/generators/as_controller"
+   last-author="caoweiyuan"
+   kind="dir"
+   uuid="f24e5565-1133-0410-8548-c1fcaaad38ca"
+   repos="http://l10n-scaffold.googlecode.com/svn"
+   revision="53"/>
+<entry
+   committed-rev="27"
+   name="USAGE"
+   text-time="2007-10-31T07:55:05.000000Z"
+   committed-date="2007-08-21T08:51:05.781212Z"
+   checksum="5f204f20aab0be59f816faecd699c395"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2007-10-31T07:55:05.000000Z"/>
+<entry
+   name="templates"
+   kind="dir"/>
+<entry
+   committed-rev="27"
+   name="as_controller_generator.rb"
+   text-time="2007-10-31T07:55:05.000000Z"
+   committed-date="2007-08-21T08:51:05.781212Z"
+   checksum="064e5f9dd049ba82de15d02ae30bb509"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2007-10-31T07:55:05.000000Z"/>
+</wc-entries>

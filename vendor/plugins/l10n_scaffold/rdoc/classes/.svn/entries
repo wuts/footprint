@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="23"
+   name=""
+   committed-date="2007-06-17T07:27:11.063596Z"
+   url="http://l10n-scaffold.googlecode.com/svn/trunk/rdoc/classes"
+   last-author="caoweiyuan"
+   kind="dir"
+   uuid="f24e5565-1133-0410-8548-c1fcaaad38ca"
+   repos="http://l10n-scaffold.googlecode.com/svn"
+   revision="53"/>
+<entry
+   committed-rev="23"
+   name="Date.html"
+   text-time="2007-10-31T07:54:57.000000Z"
+   committed-date="2007-06-17T07:27:11.063596Z"
+   checksum="69e37dadd87bef56d531fd947fec83e8"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2007-10-31T07:54:34.000000Z"/>
+<entry
+   name="ActionController"
+   kind="dir"/>
+<entry
+   committed-rev="23"
+   name="LocalizationSimplified.html"
+   text-time="2007-10-31T07:54:57.000000Z"
+   committed-date="2007-06-17T07:27:11.063596Z"
+   checksum="b6f021f189d7e21a69faa0df8bc14eb7"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2007-10-31T07:54:36.000000Z"/>
+<entry
+   committed-rev="23"
+   name="Array.html"
+   text-time="2007-10-31T07:54:57.000000Z"
+   committed-date="2007-06-17T07:27:11.063596Z"
+   checksum="e1df47014fa9cbd9b9c5dabefa3a3747"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2007-10-31T07:54:37.000000Z"/>
+<entry
+   committed-rev="23"
+   name="Time.html"
+   text-time="2007-10-31T07:54:57.000000Z"
+   committed-date="2007-06-17T07:27:11.063596Z"
+   checksum="cbb063b692a353da7d73d24276ad6030"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2007-10-31T07:54:37.000000Z"/>
+<entry
+   committed-rev="23"
+   name="ActionController.html"
+   text-time="2007-10-31T07:54:57.000000Z"
+   committed-date="2007-06-17T07:27:11.063596Z"
+   checksum="ca1f5c3a7cdadfdceb5b8f673d4dd022"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2007-10-31T07:54:37.000000Z"/>
+<entry
+   name="ActionView"
+   kind="dir"/>
+<entry
+   name="ActiveRecord"
+   kind="dir"/>
+<entry
+   committed-rev="23"
+   name="ActionView.html"
+   text-time="2007-10-31T07:54:57.000000Z"
+   committed-date="2007-06-17T07:27:11.063596Z"
+   checksum="3e358b94135cb6a120614874e8200bf4"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2007-10-31T07:54:52.000000Z"/>
+<entry
+   committed-rev="23"
+   name="ActiveRecord.html"
+   text-time="2007-10-31T07:54:57.000000Z"
+   committed-date="2007-06-17T07:27:11.063596Z"
+   checksum="db0626b987c79294c07e8e37c915607d"
+   last-author="caoweiyuan"
+   kind="file"
+   prop-time="2007-10-31T07:54:52.000000Z"/>
+<entry
+   name="LocalizationSimplified"
+   kind="dir"/>
+</wc-entries>
