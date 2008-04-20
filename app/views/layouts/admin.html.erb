@@ -7,11 +7,18 @@
   <title></title>
   <%= javascript_include_tag :defaults %>
   <%= active_scaffold_includes %>
+  <%= stylesheet_link_tag "admin" %>
 </head>
 <body>
 
 <p style="color: green"><%= flash[:notice] %></p>
-
+<div id="menu">
+  <ul>
+    <li><%= link_to "progress manager","/progresses" %> | <li>
+    <li><%= link_to "footprint manager","/footprints" %> | <li>
+    <li><%= link_to "user manager","/users" %> | <li>
+  </ul>
+</div>
 <%= yield  %>
 
 </body>
