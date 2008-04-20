@@ -14,9 +14,10 @@
 <p style="color: green"><%= flash[:notice] %></p>
 <div id="menu">
   <ul>
-    <li><%= link_to "progress manager","/progresses" %> | <li>
-    <li><%= link_to "footprint manager","/footprints" %> | <li>
-    <li><%= link_to "user manager","/users" %> | <li>
+    <li><%= link_to "progress","/progresses" %> | <li>
+    <li><%= link_to "footprint","/footprints" %> | <li>
+    <li><%= link_to "user","/users" %> | <li>
+    <li><%= link_to "myfootprint","/myfootprints" %> | <li>
   </ul>
 </div>
 <%= yield  %>
