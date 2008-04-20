@@ -18,8 +18,8 @@ development:
   adapter: mysql
   encoding: utf8
   database: footprint_development
-  username: root
-  password:
+  username: footprint
+  password: wts7532
   socket: /opt/lampp/var/mysql/mysql.sock
 
 # Warning: The database defined as 'test' will be erased and
@@ -29,14 +29,14 @@ test:
   adapter: mysql
   encoding: utf8
   database: footprint_test
-  username: root
-  password:
+  username: footprint
+  password: wts7532
   socket: /opt/lampp/var/mysql/mysql.sock
 
 production:
   adapter: mysql
   encoding: utf8
   database: footprint_production
-  username: root
-  password: 
+  username: footprint
+  password: wts7532
   socket: /opt/lampp/var/mysql/mysql.sock
